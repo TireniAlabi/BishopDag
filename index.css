@@ -1,0 +1,22 @@
+main{
+    background-color: rgb(221, 221, 221);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align:center;
+    font-family: cursive;
+  }
+  #img-div{
+    text-align:center;
+  }
+  #image{
+    text-align:center;
+    max-width:100%;
+    height:auto;
+  }
+  #img-div{
+      background-color: white;
+  }
+ #tribute-info h3{
+     text-align: center;
+ }
